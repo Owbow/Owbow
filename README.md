@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Owbow
 - 👀 I’m interested in Embedded Software and Electronics
-- 🌱 I’m vegan since 2001
-- 💞️ I’m looking to collaborate on any Hardware and Software hack
+- 🌱 I’m vegan since 2019
+- 💞️ I’m looking to collaborate on any Hardware and Software hacks
 - 📫 How to reach me ...
 
 <!---
